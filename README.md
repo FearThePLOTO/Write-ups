@@ -22,15 +22,15 @@
 ## Repository Structure
 
 ```
-ploto/
+CyberSecurity-Writeups/
 │
-├── writeups/
+├── Reverse-Engineering/
 │   │
 │   ├── Reversing x86/           
 │   └── CTFs/
 │       └── Solving the jeFF0Falltrades Crackme/ 
 │
-└── assets/                          
+└── assets/                
 ```
 
 ---
