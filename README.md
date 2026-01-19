@@ -22,11 +22,15 @@
 ## Repository Structure
 
 ```
-Write-ups/
+ploto/
 │
-├── Reverse-Engineering/
-│   └── Reversing x86/
-└── assets/                         Diagrams & images
+├── writeups/
+│   │
+│   ├── Reversing x86/           
+│   └── CTFs/
+│       └── Solving the jeFF0Falltrades Crackme/ 
+│
+└── assets/                          
 ```
 
 ---
