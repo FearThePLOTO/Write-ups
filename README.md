@@ -30,7 +30,15 @@ CyberSecurity-Writeups/
 │   └── CTFs/
 │       └── Solving the jeFF0Falltrades Crackme/ 
 │
-└── assets/                
+├── Web-Security/
+│   │
+│   ├── XSS/
+│   │   └── README.md       # XSS Exploitation Complete Guide
+│   ├── CTFs/               # CTF writeups (coming soon)
+│   │
+│   └── (other web vulns coming soon)
+│
+└── assets/          
 ```
 
 ---
